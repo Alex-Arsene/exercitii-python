@@ -1,1 +1,2 @@
-print("Salut! Acum lucrez în VS Code și GitHub")
+#print("Salut! Acum lucrez în VS Code și GitHub")
+print("Hello, World!")
